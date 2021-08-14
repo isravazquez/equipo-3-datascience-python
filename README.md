@@ -1,4 +1,4 @@
-# Postwork: Programming and Statistic with R
+# Postwork: Procesamiento de datos con Python.
 ## Equipo 3
 
 ## Integrantes
@@ -14,7 +14,7 @@ Bryan Daniel Moreno Abrego | abre.go@outlook.com
 
 ### Descripción
 
-En este proyecto pusimos a prueba nuestras habilidades de limpieza de datos aprendidas en el curso de BEDU: Data Science. 
+En este proyecto pusimos a prueba nuestras habilidades de limpieza de datos aprendidas en el curso de BEDU: Data Science, para responder preguntas sobre algún tema de interés.
 
 ---
 
