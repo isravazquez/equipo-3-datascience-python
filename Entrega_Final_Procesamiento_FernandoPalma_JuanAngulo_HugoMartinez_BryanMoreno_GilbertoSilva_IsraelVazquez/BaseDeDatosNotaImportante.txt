@@ -1,0 +1,6 @@
+Nota importante:
+
+La base de datos se toma diractamente del origen del sitio web de la plataforma del C5.
+La razón: el archivo pesa más de 100mb y es imposible subirlo de manera usual al repositorio de github. 
+
+Link: https://archivo.datos.cdmx.gob.mx/fiscalia-general-de-justicia/victimas-en-carpetas-de-investigacion-fgj/victimas_completa_junio_2021.csv
